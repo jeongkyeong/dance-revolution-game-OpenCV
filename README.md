@@ -11,7 +11,7 @@ A movement-detection mini-game that uses a camera to recognize and detect user m
 
 
 ## Screenshot
-
+![Screenshot](https://github.com/jeongkyeong/dance-revolution-game-and-OpenCV/blob/master/Screenshot.png)
 <https://youtu.be/60s0ZnvyU1s>
 
 ## Author
