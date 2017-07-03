@@ -1,6 +1,6 @@
 # Dance Revolution Game using OpenCV
 
-Digital Image Processing Project.
+Digital Image Processing Project.<br/>
 A movement-detection mini-game that uses a camera to recognize and detect user movement.
 
 ## Results
