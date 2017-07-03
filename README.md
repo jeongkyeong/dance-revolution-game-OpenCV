@@ -7,4 +7,5 @@
 <li>SFML(Simple and Fast Multimedia Library) version 2.4.1</li>
 <li>MIDI(Musical Instrument Digital Interface) file</li>
 
-### Screenshots
+### Screenshot
+![Screenshot](https://github.com/jeongkyeong/dance-revolution-game-and-OpenCV/blob/master/Screenshot.png)
