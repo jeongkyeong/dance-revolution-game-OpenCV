@@ -1,5 +1,8 @@
 # Dance Revolution Game using OpenCV
 
+Digital Image Processing Project
+A a movement-detection mini-game that uses a camera to recognize and detect user movement.
+
 ## Results
 
 ### Requirements
@@ -9,3 +12,6 @@
 
 ### Screenshot
 ![Screenshot](https://github.com/jeongkyeong/dance-revolution-game-and-OpenCV/blob/master/Screenshot.png)
+
+### Author
+JeongKyeong Kang, JungYun Eum, Pierre Bachade, Ferran Ruiz
