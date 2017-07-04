@@ -14,5 +14,5 @@ A movement-detection mini-game that uses a camera to recognize and detect user m
 ![Screenshot](https://github.com/jeongkyeong/dance-revolution-game-and-OpenCV/blob/master/Screenshot.png)
 <br><https://youtu.be/60s0ZnvyU1s>
 
-## Author
+## Collaborators 
 JeongKyeong Kang, JungYun Eum, Pierre Bachade, Ferran Ruiz
